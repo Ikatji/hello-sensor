@@ -3,7 +3,7 @@ The development process can be split up into four phases:
 1. Getting used to using Android Studio and setting up the project's skeleton structure.
 2. Programming the accelerometers test.
 3. Programming the compass test.
-4. Testing and adjusting.
+4. Testing.
 
 ## 1. Learning the ropes
 I started out doing the Android Developer *Build Your First App*-tutorial at <https://developer.android.com/training/basics/firstapp/index.html>. I then proceeded to create the Activities for the different tests, the main UI, and navigation between views by modifying code from and utilising the procedures in the tutorial.
