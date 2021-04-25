@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hello Sensor</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="text_info">Choose a sensor test to run:</string>
+    <string name="button_accelerometers">Accelerometers</string>
+    <string name="button_compass">Compass</string>
+    <string name="text_accelerometer_info">Accelerometer values:</string>
+    <string name="text_X_label">X:</string>
+    <string name="text_Y_label">Y:</string>
+    <string name="text_Z_label">Z:</string>
+    <string name="text_compass_heading">"Heading: "</string>
+</resources>
